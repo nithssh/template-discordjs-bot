@@ -6,4 +6,4 @@ node_modules/
 !settings.json
 
 # uncomment this to keep the token a secret
-# token.js
+token.js

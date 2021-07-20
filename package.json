@@ -1,7 +1,7 @@
 {
-  "name": "discord_bot",
-  "version": "1.0.0",
-  "description": "Template for DiscordJS bot. Basic ping bot.",
+  "name": "praetorean",
+  "version": "0.1.0",
+  "description": "Email verification discord bot.",
   "main": "index.js",
   "dependencies": {
     "discord.js": "^12.2.0"
@@ -10,6 +10,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dem1se/protaerean.git"
+  },
   "author": "dem1se",
-  "license": "MIT"
+  "license": "MPL-2.0"
 }
